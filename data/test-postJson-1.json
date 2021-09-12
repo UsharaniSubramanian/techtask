@@ -1,0 +1,6 @@
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sampleTest",
+  "body": "Sample Test\nThsi is a sample Json message\nto test POST method"
+}
